@@ -3,6 +3,7 @@
 ### Disciplina – Programação para dispositivos moveis – Prof. Marcos Vasconcelos
 
 - Diego Fernandes Lins
+- Gustavo Lino
 
 ### Resumo
 Um aplicativo que converte os graus celsius que o usuario digitar em fahrenheit.
