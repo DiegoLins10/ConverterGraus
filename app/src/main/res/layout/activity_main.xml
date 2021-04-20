@@ -7,7 +7,8 @@
     android:background="@color/amarelo"
     android:orientation="vertical"
     android:padding="16dp"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity"
+    android:backgroundTint="@color/purple_200">
 
 
     <EditText
@@ -27,13 +28,15 @@
         android:layout_height="wrap_content"
         android:text="Converter para Graus Fahrenheit"
         android:textAlignment="center"
-        android:gravity="center_horizontal"/>
+        android:gravity="center_horizontal"
+        android:backgroundTint="@color/black"/>
 
     <TextView
         android:id="@+id/txt_Resultado"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textSize="25sp" />
+        android:textSize="25sp"
+        android:textColor="@color/black"/>
 
 
 </LinearLayout>
